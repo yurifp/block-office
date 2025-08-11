@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Blockoffice.sol": "Blockoffic"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Blockoffice.sol": {
+			"keccak256": "0xac8758dd74d761ace0e9532a8281c7639f5626703956eeb181cca4ae20ce3245",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bc36773165dfbb38e462d93328abf879a2236e0a7737c05c3d7326fe8fe49414",
+				"dweb:/ipfs/QmNNx3zbBqxHGAUhDe4FfPrHve6kpBoZMX6MASRykWtMZ7"
+			]
+		}
+	},
+	"version": 1
+}
